@@ -24,7 +24,7 @@ Sample Input
 "principal": 500000,
 "rate": "10.5",
 "term": "5000",
-"type": "mortgage"
+"type": "MORTGAGE"
 }`
 
 Sample Response
@@ -52,7 +52,7 @@ Sample Response
 "principal": 1000,
 "rate": 8.0,
 "term": 90,
-"type": "auto",
+"type": "AUTO",
 "arp": 3122.78
 },
 {
@@ -63,7 +63,7 @@ Sample Response
 "principal": 500000,
 "rate": 11.0,
 "term": 5000,
-"type": "mortgage",
+"type": "MORTGAGE",
 "arp": 3832.52
 }
 ]`
@@ -88,7 +88,7 @@ Sample Response
 "principal": 1000,
 "rate": 8.0,
 "term": 90,
-"type": "auto",
+"type": "AUTO",
 "arp": 3122.78
 }
 `
